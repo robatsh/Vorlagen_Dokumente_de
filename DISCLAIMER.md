@@ -1,8 +1,15 @@
-⚠ Haftungsausschluss
-Die in diesem Repository bereitgestellten Vorlagen wurden mit größter Sorgfalt erstellt und basieren auf allgemein verfügbaren Informationen. Dennoch wird keine Gewähr für deren Richtigkeit, Vollständigkeit oder Aktualität übernommen.
+⚠ Haftungsausschluss (Disclaimer)
+Die in diesem Repository bereitgestellten Vorlagen wurden mit größter Sorgfalt erstellt und basieren auf allgemein verfügbaren Informationen. Dennoch gilt:
 
-🔹 Die Nutzung der Vorlagen erfolgt auf eigene Verantwortung.
-🔹 Der Autor übernimmt keine Haftung für Schäden, Verluste oder Nachteile, die durch die Nutzung entstehen könnten.
-🔹 Es wird keine rechtliche oder fachliche Beratung durch die bereitgestellten Inhalte angeboten.
+1️⃣ Keine Gewährleistung
 
-Dieses Repository dient ausschließlich dazu, Wissen frei zugänglich zu machen. Jede Nutzung muss eigenverantwortlich geprüft werden.
+Es wird keine Garantie für Richtigkeit, Vollständigkeit oder Aktualität der Inhalte übernommen.
+Die Nutzung der Vorlagen erfolgt auf eigene Verantwortung.
+2️⃣ Keine Haftung
+
+Der Autor übernimmt keine Haftung für Schäden, Verluste oder Nachteile, die aus der Nutzung der Vorlagen entstehen.
+Eine rechtliche oder fachliche Beratung ist nicht Teil dieses Angebots.
+3️⃣ Eigenverantwortliche Prüfung
+
+Jeder Nutzer ist verpflichtet, die Vorlagen selbstständig zu überprüfen und an individuelle Anforderungen anzupassen.
+🚀 Freies Wissen muss frei bleiben – aber auch verantwortungsvoll genutzt werden!

@@ -16,3 +16,9 @@ Weitere Informationen zur Lizenz findest du hier.
 Ich freue mich über Vorschläge, Verbesserungen oder neue Vorlagen, die anderen helfen könnten! Falls du Ideen hast, erstelle gerne ein Issue oder einen Pull-Request.
 
 💡 Freies Wissen muss frei bleiben! Viel Freude mit den Vorlagen! 🚀
+
+
+## Lizenz  
+
+Dieses Projekt steht unter der **Creative Commons BY-NC 4.0** Lizenz.  
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)

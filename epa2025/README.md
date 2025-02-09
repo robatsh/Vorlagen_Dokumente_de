@@ -20,18 +20,18 @@ Bitte beachten Sie den Haftungsausschluss in der Datei [DISCLAIMER.md](../DISCLA
 
 ## Verfügbare Widerspruchsvorlagen
 
-Hier sind die verfügbaren Vorlagen, die Sie kostenlos nutzen können:
+Hier sind die verfügbaren Vorlagen mit direkten Download-Links:
 
-- [Widerspruch ePA Einrichtung/Arzt.docx](./Widerspruch_ePA_Einrichtung_Arzt.docx)
-- [Widerspruch ePA Krankenkasse.docx](./Widerspruch_ePA_Krankenkasse.docx)
-- [Widerspruch ePA Krankenkasse Sozialversicherung.docx](./Widerspruch_ePA_Krankenkasse_Sozialversicherung.docx)
+- [Widerspruch ePA Einrichtung/Arzt.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Einrichtung_Arzt.docx)
+- [Widerspruch ePA Krankenkasse.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Krankenkasse.docx)
+- [Widerspruch ePA Krankenkasse Sozialversicherung.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Krankenkasse_Sozialversicherung.docx)
 
 ---
 
 ## Anleitung zum Download
 
 1. Klicken Sie auf die gewünschte Vorlage.
-2. Wählen Sie die Option **"Download"** oder klicken Sie auf **"Raw"**, um die Datei direkt zu speichern.
+2. Die Datei wird automatisch heruntergeladen.
 3. Öffnen Sie die Datei in einem Textverarbeitungsprogramm wie **Microsoft Word** oder **LibreOffice**.
 
 ---

@@ -30,11 +30,21 @@ Hier sind die verfügbaren Vorlagen mit direkten Download-Links:
 
 ---
 
+## Hinweise zur Nutzung der Vorlagen
+
+- **Dateiformat:** Die Vorlagen sind im `.docx`-Format gespeichert, wurden jedoch mit **LibreOffice** unter Linux erstellt.
+- **Formatierungsanpassungen:** Da Schriftarten und Layouts je nach verwendetem Textverarbeitungsprogramm variieren können, ist es möglich, dass Anpassungen der Formatierung oder Schriftarten erforderlich sind. 
+  - Überprüfen Sie die Dokumente insbesondere in Microsoft Word, um sicherzustellen, dass das Layout korrekt dargestellt wird.
+  - Alternativ können Sie die Vorlagen direkt in LibreOffice öffnen, um die bestmögliche Darstellung zu gewährleisten.
+
+---
+
 ## Anleitung zum Download
 
 1. Klicken Sie auf die gewünschte Vorlage.
 2. Die Datei wird automatisch heruntergeladen.
-3. Öffnen Sie die Datei in einem Textverarbeitungsprogramm wie **Microsoft Word** oder **LibreOffice**.
+3. Öffnen Sie die Datei in einem Textverarbeitungsprogramm wie **LibreOffice** oder **Microsoft Word**.
+4. Passen Sie bei Bedarf das Layout und die Schriftart an.
 
 ---
 

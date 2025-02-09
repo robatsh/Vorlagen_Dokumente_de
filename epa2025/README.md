@@ -8,6 +8,8 @@ Die elektronische Patientenakte (ePA) wurde eingeführt, um den digitalen Austau
 - **Datenschutzbedenken:** Viele Experten befürchten, dass die ePA unzureichend gegen Missbrauch geschützt ist.
 - **Ärztliche Schweigepflicht:** Die Sorge besteht, dass die ärztliche Schweigepflicht durch unkontrollierte Weitergabe sensibler Daten gefährdet wird.
 
+Weitere Informationen zu den Risiken der ePA finden Sie in der Datei [info_epa_2025.md](https://github.com/robatsh/Vorlagen_Dokumente_de/blob/main/epa2025/info_epa_2025.md).
+
 Um dem entgegenzuwirken, können Sie mit den folgenden Vorlagen der Nutzung der ePA widersprechen.
 
 ---

@@ -16,7 +16,7 @@ Um dem entgegenzuwirken, können Sie mit den folgenden Vorlagen der Nutzung der 
 
 Bitte beachten Sie:
 - [DISCLAIMER.md](../DISCLAIMER.md) – Enthält wichtige rechtliche Hinweise.
-- [LICENSE.md](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/LICENSE) – Lizenzbedingungen für die Nutzung der Vorlagen.
+- [LICENSE.md](https://github.com/robatsh/Vorlagen_Dokumente_de/blob/main/LICENSE) – Lizenzbedingungen für die Nutzung der Vorlagen.
 
 ---
 
@@ -43,4 +43,9 @@ Hier sind die verfügbaren Vorlagen mit direkten Download-Links:
 
 1. Klicken Sie auf die gewünschte Vorlage.
 2. Die Datei wird automatisch heruntergeladen.
-3. Öffnen Sie die Datei in
+3. Öffnen Sie die Datei in einem Textverarbeitungsprogramm wie **LibreOffice** oder **Microsoft Word**.
+4. Passen Sie bei Bedarf das Layout und die Schriftart an.
+
+---
+
+Diese Vorlagen sollen Ihnen helfen, Ihre persönlichen Gesundheitsdaten zu schützen und selbstbestimmt über deren Verwendung zu entscheiden.

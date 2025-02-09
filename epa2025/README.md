@@ -24,9 +24,9 @@ Bitte beachten Sie:
 
 Hier sind die verfügbaren Vorlagen mit direkten Download-Links:
 
-- [Widerspruch ePA Einrichtung/Arzt.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Einrichtung_Arzt.docx)
-- [Widerspruch ePA Krankenkasse.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Krankenkasse.docx)
-- [Widerspruch ePA Krankenkasse Sozialversicherung.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Krankenkasse_Sozialversicherung.docx)
+- [Widerspruch_ePA_Einrichtung_Arzt.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Einrichtung_Arzt.docx)
+- [Widerspruch_ePA_Krankenkasse.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Krankenkasse.docx)
+- [Widerspruch_ePA_Krankenkasse_Sorgeberechtigter.docx](https://raw.githubusercontent.com/robatsh/Vorlagen_Dokumente_de/main/epa2025/Widerspruch_ePA_Krankenkasse_Sorgeberechtigter.docx)
 
 ---
 

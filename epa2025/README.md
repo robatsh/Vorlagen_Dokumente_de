@@ -14,7 +14,9 @@ Um dem entgegenzuwirken, können Sie mit den folgenden Vorlagen der Nutzung der 
 
 ## Haftungsausschluss
 
-Bitte beachten Sie den Haftungsausschluss in der Datei [DISCLAIMER.md](../DISCLAIMER.md).
+Bitte beachten Sie:
+- [DISCLAIMER.md](../DISCLAIMER.md) – Enthält wichtige rechtliche Hinweise.
+- [LICENSE.md](../LICENSE.md) – Lizenzbedingungen für die Nutzung der Vorlagen.
 
 ---
 

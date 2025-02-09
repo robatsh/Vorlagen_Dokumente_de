@@ -16,7 +16,7 @@ Um dem entgegenzuwirken, können Sie mit den folgenden Vorlagen der Nutzung der 
 
 Bitte beachten Sie:
 - [DISCLAIMER.md](../DISCLAIMER.md) – Enthält wichtige rechtliche Hinweise.
-- [LICENSE.md](../LICENSE.md) – Lizenzbedingungen für die Nutzung der Vorlagen.
+- [LICENSE.md](https://github.com/robatsh/Vorlagen_Dokumente_de/blob/main/LICENSE) – Lizenzbedingungen für die Nutzung der Vorlagen.
 
 ---
 

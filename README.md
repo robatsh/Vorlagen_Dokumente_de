@@ -12,7 +12,7 @@ Hier findest du hilfreiche Vorlagen, die ohne Einschränkungen im Alltag genutzt
 
 ## 📜 **Lizenz & Nutzung**  
 
-Die Vorlagen dürfen frei genutzt und angepasst werden. Eine kommerzielle Nutzung ist jedoch nicht erlaubt.  
+Die Vorlagen dürfen frei genutzt und angepasst werden. Eine kommerzielle (Geld dafür verlangen) Nutzung ist jedoch nicht erlaubt.  
 Weitere Informationen zur Lizenz findest du [hier](./LICENSE).  
 
 ## ⚠ **Haftungsausschluss**  

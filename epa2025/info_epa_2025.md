@@ -36,4 +36,11 @@ Der CCC spricht sogar von einem **„Experiment an der Bevölkerung“**, da die
 
 Ein Missbrauch oder Datenleck könnte schwerwiegende Folgen haben – **bis hin zu Identitätsdiebstahl, Diskriminierung bei Versicherungen oder Nutzung durch Dritte ohne Wissen der Betroffenen**.  
 
-**Patienten sollten sich daher umfassend informieren und eine bewusste Entscheidung treffen – oder aktiv widersprechen.**
+**Patienten sollten sich daher umfassend informieren und eine bewusste Entscheidung treffen – oder aktiv widersprechen.**  
+
+---
+
+## **Weitere Informationen**
+Ein detaillierter Einblick in die Risiken der ePA wird von Dr. Cedric Mössner erläutert.  
+Sein Video zu diesem Thema ist hier verfügbar:  
+[🔗 YouTube: Sicherheitsrisiken der ePA – Dr. Cedric Mössner](https://m.youtube.com/watch?v=qD45srBEpcM)

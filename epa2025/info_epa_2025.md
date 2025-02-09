@@ -41,6 +41,6 @@ Ein Missbrauch oder Datenleck könnte schwerwiegende Folgen haben – **bis hin 
 ---
 
 ## **Weitere Informationen**
-Ein detaillierter Einblick in die Risiken der ePA wird von Dr. Cedric Mössner erläutert.  
+Ein detaillierter Einblick in die Risiken der ePA wird von Cedric Mössner, IT-Sicherheitsexperte und Penetrationstester, erläutert.  
 Sein Video zu diesem Thema ist hier verfügbar:  
-[🔗 YouTube: Sicherheitsrisiken der ePA – Dr. Cedric Mössner](https://m.youtube.com/watch?v=qD45srBEpcM)
+[🔗 YouTube: Sicherheitsrisiken der ePA – Cedric Mössner](https://m.youtube.com/watch?v=qD45srBEpcM)
